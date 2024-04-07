@@ -1,3 +1,4 @@
 # lab_2
-android lab work
+android lab work.
+
 Андроид студио зависает и ноут перегрелся. 
